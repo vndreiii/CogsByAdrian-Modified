@@ -1,0 +1,12 @@
+{
+  "author": ["DesignByAdrian (ThinkAdrian#1186), Modified by vndreiii (alxandr
+  #0001)"],
+  "install_msg": "Bang bang, you're dead! Caution: some of the commands have violent and/or sexual responses!",
+  "name": "Killer",
+  "disabled": false,
+  "short": "Do bad things to other users",
+  "description": "Shlap, punch, stab unsuspecting neighbours!",
+  "tags": ["fun"],
+  "hidden": false,
+  "min_python_version": [3, 6, 0]
+}
